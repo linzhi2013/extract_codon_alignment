@@ -35,9 +35,9 @@ There will be a command `extract_codon_alignment` created under the same directo
 Guanliang MENG
 
 ## Citation
-Currently I have no plan to publish `extract-codon-alignment`.
+Currently I have no plan to publish `extract-codon-alignment`. **However, if you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
 
-However, since `extract-codon-alignment` makes use of `Biopython`, you should cite it if you use `extract-codon-alignment` in your work:
+Besides, since `extract-codon-alignment` makes use of `Biopython`, you should cite it if you use `extract-codon-alignment` in your work:
 
     Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon: “Biopython: freely available Python tools for computational molecular biology and bioinformatics”. Bioinformatics 25 (11), 1422–1423 (2009). https://doi.org/10.1093/bioinformatics/btp163
 
